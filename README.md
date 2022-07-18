@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurav Kumar
-- 👀 I’m interested in testing super-cool innovations.
+- 👀 I’m interested in Super-Cool innovations.
 - 🌱 I’m currently learning Cloud Computing
 - 📫 You can reach me at saurav30798@gmail.com
 
