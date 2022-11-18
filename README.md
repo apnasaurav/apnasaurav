@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurav Kumar
 - 👀 I’m interested in Super-Cool innovations.
 - 🌱 I’m currently learning DevOps
-- 📫 You can reach me at saurav30798@gmail.com
+- 📫 You can reach me out at saurav30798@gmail.com
 
 [![@saurav30798's Holopin board](https://holopin.me/saurav30798)](https://holopin.io/@saurav30798)
 
